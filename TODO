@@ -1,0 +1,4 @@
+TODO CaesarAIBooks
+1. Load epub from file system to Reader Component
+2. Create Persinstent Book marks
+2. Add voice reader and annotations using cfi ranges
